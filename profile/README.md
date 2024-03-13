@@ -1,4 +1,4 @@
-# OpenAED
+# OpenAED - Vind, haal, red.
 
 OpenAED is een open-source kaart gebaseerd op gegevens van OpenStreetMap, die de locaties en essentiële informatie over Automatische Externe Defibrillatoren (AEDs) in Nederland weergeeft.
 De kaart van OpenAED biedt een overzicht van AED-locaties, waardoor het voor hulpverleners en het publiek gemakkelijker wordt om snel toegang te krijgen tot deze levensreddende apparaten.
